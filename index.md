@@ -2,7 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Intro
+I am a social entrepreneur focused on providing informed, comprehensive research analysis and data services to underserved communities. I help foundations, non-profits, and consultancies to access, curate, and analyze internal and secondary data to understand socioeconomic trends, support strategic goals, and increase stakeholder engagement.<br><br/>
+
+My passion is to empower the public with sustainable processes, information, and tools they need to achieve their vision.
+
+### Category Name 2
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +22,7 @@
 
 ---
 
-### Category Name 2
+### Category Name 3
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
